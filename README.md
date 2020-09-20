@@ -21,7 +21,7 @@ Set the ColorScheme
 |**_dracula_**<br>[source](https://draculatheme.com)|![dracula](images/dracula.png)|
 |**_horizon-dark_**<br>[source](https://github.com/jolaleye/horizon-theme-vscode)|![horizon-dark](images/horizon-dark.png)|
 |**_hyper_**<br>[source](https://hyper.is)|![hyper](images/hyperjs.png)|
-|**_iterm_**|![iterm](images/iterm.png)|
+|**_iterm_**|![iterm2](images/iterm2.png)|
 
 
 
