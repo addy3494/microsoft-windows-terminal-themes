@@ -17,6 +17,7 @@ Set the ColorScheme
 |NAME|COLORS|
 |:---:|:---:|
 |**_ayu_dark_**<br>[source](https://github.com/ayu-theme/ayu-colors)|![base16_default_dark](images/ayu-dark.png)|
+|**_blue-matrix_**|![blue-matrix](images/blue-matrix.png)|
 |**_Cobalt2_**<br>[source](https://github.com/wesbos/cobalt2/tree/master/Cobalt2)|![Cobalt2](images/cobalt2.png)|
 |**_dracula_**<br>[source](https://draculatheme.com)|![dracula](images/dracula.png)|
 |**_horizon-dark_**<br>[source](https://github.com/jolaleye/horizon-theme-vscode)|![horizon-dark](images/horizon-dark.png)|
