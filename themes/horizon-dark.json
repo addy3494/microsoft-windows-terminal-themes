@@ -1,0 +1,26 @@
+{
+    "name" : "horizon-dark",
+
+    "cursorColor": "#FFFFFF",
+    "selectionBackground": "#FFFFFF",
+
+    "background" : "#1c1e26",
+    "foreground" : "#e0e0e0",
+
+    "black" : "#16161c",
+    "blue" : "#26bbd9",
+    "cyan" : "#59e1e3",
+    "green" : "#29d398",
+    "purple" : "#ee64ac",
+    "red" : "#e95678",
+    "white" : "#d5d8da",
+    "yellow" : "#fab795",
+    "brightBlack" : "#5b5858",
+    "brightBlue" : "#3fc4de",
+    "brightCyan" : "#6be4e6",
+    "brightGreen" : "#3fdaa4",
+    "brightPurple" : "#f075b5",
+    "brightRed" : "#ff5555",
+    "brightWhite" : "#d5d8da",
+    "brightYellow" : "#fbc3a7"
+}

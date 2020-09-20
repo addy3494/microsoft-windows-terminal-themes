@@ -19,7 +19,10 @@ Set the ColorScheme
 |**_ayu_dark_**<br>[source](https://github.com/ayu-theme/ayu-colors)|![base16_default_dark](images/ayu-dark.png)|
 |**_Cobalt2_**<br>[source](https://github.com/wesbos/cobalt2/tree/master/Cobalt2)|![Cobalt2](images/cobalt2.png)|
 |**_dracula_**<br>[source](https://draculatheme.com)|![dracula](images/dracula.png)|
+|**_horizon-dark_**<br>[source](https://github.com/jolaleye/horizon-theme-vscode)|![horizon-dark](images/horizon-dark.png)|
 |**_hyper_**<br>[source](https://hyper.is)|![hyper](images/hyperjs.png)|
+|**_iterm_**|![iterm](images/iterm.png)|
+
 
 
 ## Contributing
@@ -36,7 +39,7 @@ adhere to the [Contributor Covenant](http://contributor-covenant.org) code of co
 
 ## Author
 
-* **Zenitsu** - *Owner* - [Zenitsu](https://github.com/addy3494)
+* **gh0s1** - *Owner* - [gh0s1](https://github.com/addy3494)
 
 ## License
 
